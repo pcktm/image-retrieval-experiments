@@ -6,7 +6,7 @@ This repository contains the code for the Image Retrieval project I worked on du
 2. Methods with Local Feature Descriptors (based on SIFT+ORB)
 3. Methods with Neural Features (using BiT and EfficientNet models)
 
-I am currently working on a blog post detailing my journey and experiences throughout this project. The post will provide more insights into the techniques and results, and it will be available soon. 
+### Read more about my journey with CBIR in my [blog post entry](https://kopanko.com/notes/finding-a-needle-in-the-image-stack)!
 
 ## Getting Started
 
