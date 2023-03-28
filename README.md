@@ -4,7 +4,7 @@ This repository contains the code for the Image Retrieval project I worked on du
 
 1. Classical Methods with Global Features
 2. Methods with Local Feature Descriptors (based on SIFT+ORB)
-3. Methods with Neural Features (using BiT30k and EfficientNet models)
+3. Methods with Neural Features (using BiT and EfficientNet models)
 
 I am currently working on a blog post detailing my journey and experiences throughout this project. The post will provide more insights into the techniques and results, and it will be available soon. 
 
@@ -40,7 +40,7 @@ This directory contains the code for image retrieval methods based on local feat
 
 ### Methods with Neural Features
 
-This directory contains the code for image retrieval methods using neural features extracted from pre-trained BiT30k and EfficientNet models. These methods are located in the `neural-features` directory.
+This directory contains the code for image retrieval methods using neural features extracted from pre-trained BiT and EfficientNet models. These methods are located in the `neural-features` directory.
 
 ## Datasets
 
